@@ -27,6 +27,7 @@ img {
     flex-basis: 20%;
 }
 .container {
+   flex-wrap: nowrap;
    display: flex;
    flex-wrap: wrap;
    justify-content: space-around;
